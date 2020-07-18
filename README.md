@@ -1,5 +1,5 @@
 # Logistic-Regression-Algorithm-from-Scratch
-Dlithe-Internship
+Assignment during Online Internship with DLithe(www.dlithe.com)
 
 Basic Binary Classification i.e for only two classes
 
