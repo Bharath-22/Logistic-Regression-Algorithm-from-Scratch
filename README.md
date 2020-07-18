@@ -12,4 +12,4 @@ The modified iris dataset contains 3 columns
   <li> Species (0-Setosa and 1-versicolor)</li>
 </ol>
 
-Detailed explaination of the Algorithm is given in the notebook <a href="">"Logistic Regression.ipynb"</a>
+Detailed explaination of the Algorithm is given in the notebook <a href="https://github.com/Bharath-22/Logistic-Regression-Algorithm-from-Scratch/blob/master/Logistic%20Regression.ipynb">"Logistic Regression.ipynb"</a>
