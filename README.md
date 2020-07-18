@@ -17,5 +17,6 @@ Detailed explaination of the Algorithm is given in the notebook <a href="https:/
 # References
 <ol>
   <li> Andrew Ng's Machine learning Notes on Supervised Learning - http://cs229.stanford.edu/summer2020/cs229-notes1.pdf</li>
+  <li> Logistic Regression - https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148#:~:text=We%20can%20call%20a%20Logistic,instead%20of%20a%20linear%20function.</li>
   <li> Gradient Descent - https://stackoverflow.com/questions/47795918/logistic-regression-gradient-descent</li>
 </ol>
